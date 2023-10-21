@@ -1,0 +1,32 @@
+.body{
+    padding: 0%;
+    margin: 0%;
+
+}
+
+.main-heading{
+    background-color: #DC7633;
+    color: #F6DDCC;
+}
+
+.intro{
+    color: #AEB6BF;
+}
+
+.nav-link{
+    color: green;    
+}
+
+
+.section-p{
+    color: #AEB6BF;
+}
+
+.color-box{
+    background-color: #FDEBD0;
+    color: #F1C40F;
+}
+
+.f-p{
+    color: #AEB6BF;
+}
